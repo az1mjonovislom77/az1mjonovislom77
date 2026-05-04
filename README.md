@@ -82,7 +82,6 @@ Building reliable backend systems, scalable APIs, and automation platforms for r
 
 ---
 
-## ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
