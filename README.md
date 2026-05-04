@@ -47,7 +47,7 @@ Building reliable backend systems, scalable APIs, and automation platforms for r
 
 <p align="center">
   <a href="https://github.com/az1mjonovislom77"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/ever7777"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/ever_7777"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="mailto:azimjonovislomjon77@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/islom-azimjonov-76265b227/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
