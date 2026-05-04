@@ -17,13 +17,14 @@ Building reliable backend systems, scalable APIs, and automation platforms for r
 
 - 💼 Python Backend Developer with **1+ year** of hands-on experience building production-ready systems  
 - 🛠 Worked on **5 + real-world backend projects** including CRM systems, REST APIs, and internal automation tools  
+- 🔭 Currently working at ATS
 - ⚙️ Building scalable backend architecture, APIs, and business logic  
 - ⚡ Strong in **Django**, **FastAPI**, **PostgreSQL**, **Redis**, and **Celery**  
 - 🧠 Focused on backend performance, clean architecture, and production reliability  
 - 🔌 Integrated **Hikvision Face ID**, **Telegram Bot API**, and third-party services  
 - 🐳 Working with **Docker**, **Linux**, and production deployments  
 - 🌱 Currently growing in **system design**, **distributed systems**, and **DevOps**  
-- 🌍 Open to backend and infrastructure-focused remote opportunities  
+- 🌍  Open to international remote opportunities in the USA and Europe 
 - ⚡ Fun fact: I like backend systems that are simple, reliable, and built to survive production  
 
 ---
