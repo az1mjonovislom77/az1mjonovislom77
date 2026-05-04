@@ -16,7 +16,7 @@ Building reliable backend systems, scalable APIs, and automation platforms for r
 ## 🚀 About Me
 
 - 💼 Python Backend Developer with **1+ year** of hands-on experience building production-ready systems  
-- 🛠 Worked on **10+ real-world backend projects** including CRM systems, REST APIs, and internal automation tools  
+- 🛠 Worked on **5 + real-world backend projects** including CRM systems, REST APIs, and internal automation tools  
 - ⚙️ Building scalable backend architecture, APIs, and business logic  
 - ⚡ Strong in **Django**, **FastAPI**, **PostgreSQL**, **Redis**, and **Celery**  
 - 🧠 Focused on backend performance, clean architecture, and production reliability  
