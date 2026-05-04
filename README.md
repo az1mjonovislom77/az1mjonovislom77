@@ -15,7 +15,7 @@ Building reliable backend systems, scalable APIs, and automation platforms for r
 
 ## 🚀 About Me
 
-- 💼 Python Backend Developer with **1+ year** of hands-on experience building production-ready systems  
+- 💼 Python Backend Engineer with **1+ year** of hands-on experience building production-ready systems  
 - 🛠 Worked on **6 + real-world backend projects** including CRM systems, REST APIs, and internal automation tools  
 - 🔭 Currently working at ATS
 - ⚙️ Building scalable backend architecture, APIs, and business logic  
