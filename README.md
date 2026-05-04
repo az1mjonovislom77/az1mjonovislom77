@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Islom Azimjonov</h1>
-<h3 align="center">Python Backend Developer | Django • FastAPI • PostgreSQL • Docker • Redis • Celery • RabbitMQ</h3>
+<h3 align="center">Python Backend Engineer | Django • FastAPI • PostgreSQL • Docker • Redis • Celery • RabbitMQ</h3>
 
 <p align="center">
 Building reliable backend systems, scalable APIs, and automation platforms for real-world business operations.
